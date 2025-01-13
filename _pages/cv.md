@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, Harvard University, 2006
+* M.S. in Biostatistics, Harvard University, 2003
+* B.S. in Math and Statistics, Utah State University, 2001
 
-Work experience
+Academic Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Professor of Biostatistics, Boston University, 2006-Present
+* Associate Director, Center for Health Data Science
+* Co-director, Surveillance and Data Science Core, Center on Emerging Infectious Diseases
+* Co-director, Graduate Program in Biostatistics, 2016-Present
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced statistical methods
+* Mentorship
+* Academic Leadership
 
 Publications
 ======
@@ -58,7 +45,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

@@ -31,7 +31,15 @@ Estimation of odds ratios
 There is interest in understanding what factors might be most or least associated with transmission of an infectious disease. We describe a method for estimating these odds ratios in a paper published in [`Epidemiology`](https://pubmed.ncbi.nlm.nih.gov/34847084/).
 
 
+Statistical inference with data from respondent driven samples
+==============================================================
 
+Data collected from respondent driven samples, a method to sample social networks to identify hard to reach populations, is highly correlated and typical statistical methods do not apply. We have developed a bivariate test of association for this data that was published in the [`Journal of the Royal Statistical Society`](https://academic.oup.com/jrsssc/article-abstract/74/2/429/7909014?redirectedFrom=PDF) with code for implementing this method available [`here`](https://github.com/samalatesta/RDSAssociation).
+
+TB-STATIS: Measures of tuberculosis disease severity
+=========================================
+
+Tuberculosis is the leading cause of death due to infectious disease globally and antibiotic treatment regimens can take months to years to successfully treat the disease. There is growing interest in treatment shortening regimens for individuals with less severe disease. With that in mind, we developed a rigorous statistical approach to estimate TB disease severity using available data at diagnosis and event-based modeling (popular in the study of cognitive decline). Our software is available [`here`](https://github.com/samalatesta/tbSTATISpaper) and the paper is under review.
 
 
 

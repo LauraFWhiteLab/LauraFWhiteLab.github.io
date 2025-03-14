@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me and my lab"
+title: "Laura F White Lab"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,4 +13,4 @@ I am a biostatistician developing novel methods and approaches to address data d
 
 What we do
 -======
-We approach problems from a statistical perspective. This means that we are interested in understanding signals in data, carefully considering data generating processes (such as sampling issues), and leveraging the rich toolkits of statistics to develop models. We are also adept at mathematical modeling approaches, model calibration, and a host of other useful techniques. 
+We approach problems from a statistical perspective. This means that we are interested in understanding signals in data, carefully considering data generating processes (such as sampling issues), and leveraging the rich toolkits of statistics to develop models. We are also adept at mathematical modeling approaches, model calibration, machine learning, and a host of other useful techniques. 

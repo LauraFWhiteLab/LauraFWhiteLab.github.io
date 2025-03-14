@@ -14,7 +14,7 @@ name                     : &name "Laura F White"
 description              : &description "Lab site for the White Lab and Boston Universirt School of Public Health"
 url                      : https://LauraFWhiteLab.github.io # the base hostname & protocol for your site e.g. "https://LauraFWhiteLab.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LauraFWhiteLAb.github.io"
+repository               : "LauraFWhiteLab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

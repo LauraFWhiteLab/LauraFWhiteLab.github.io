@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tools to estimate the reproductive number"
+excerpt: "Functions to estimation the local time varying reproductive number using mobility data and performa backcalculation and nowcasting<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

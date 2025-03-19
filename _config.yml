@@ -21,7 +21,7 @@ repository               : "LauraFWhiteLab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot small.jpg"
+  avatar           : "headshot small.jpg"
   name             : "Laura F White"
   pronouns         : "she/her"  
   bio              : "Professor of Biostatistics; infectious diseases; substance use disorder research"

@@ -8,12 +8,21 @@ author_profile: true
 Software
 ========
 
+WhiteLabRt
+----------
+
 We have recently created a new R package ([`WhiteLabRt`](https://github.com/cmilando/WhiteLabRt)) that improves performance on the methods proposed in [`Zhou et al`][1] and [`Li et al`][2]. This is loaded on to CRAN and uses C and Stan to improve computation time. 
 
 These functions perform the following tasks:
 
 - Estimate spatially localized reproductive numbers that can incorporate mobility data.
 - Account for reporting delays in data and nowcast cases to get more up to date estimates.
+
+Estimation of Local $R_t$
+-------------------------
+
+This method is described in [Li et al][3] and allows one to estimate $R_t$ accounting for imported cases from other regions. Code for implementing the method is found [here](https://github.com/KolaczykResearch/EstimLocalRt).
+
 
 
 Publications

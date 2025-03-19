@@ -16,6 +16,9 @@ main:
     
   - title: "Lab Repositories"
     url: /portfolio/
+
+  - title: "Reproductive Number"
+    url: /Rtestim/
         
   - title: "CV"
     url: /cv/

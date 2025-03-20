@@ -18,7 +18,7 @@ These functions perform the following tasks:
 - Estimate spatially localized reproductive numbers that can incorporate mobility data.
 - Account for reporting delays in data and nowcast cases to get more up to date estimates.
 
-Estimation of Local $R_t$
+Estimation of Local reproductive numbers
 -------------------------
 
 This method is described in [`Li et al`][3] and allows one to estimate $R_t$ accounting for imported cases from other regions. Code for implementing the method is found [`here`](https://github.com/KolaczykResearch/EstimLocalRt).

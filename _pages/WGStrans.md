@@ -8,7 +8,7 @@ author_profile: true
 mlTransEpi: Using Sequencing Data to infer transmission dynamics
 ================================================================
 
-We created an R package that is being developed [`here`](https://github.com/sarahleavitt/nbTransmission). We describe key features of this package here.
+We created an R package that is being developed [`here`](https://github.com/sarahleavitt/nbTransmission) and is available on CRAN. We describe key features of this package here.
 
 Estimation of pairwise transmission probabilities
 -------------------------------------------------

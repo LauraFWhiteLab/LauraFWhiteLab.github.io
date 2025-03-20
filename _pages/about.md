@@ -32,3 +32,5 @@ Funding
 -======
 
 We are grateful for funding from the NIH (NIGMS R35GM141821, NIAID P30AI042853) and CDC (NU38FT000013). 
+
+![CEID logo](\images\CEID_logo.png)

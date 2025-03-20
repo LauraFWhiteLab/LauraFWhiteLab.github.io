@@ -21,13 +21,13 @@ These functions perform the following tasks:
 Estimation of Local reproductive numbers
 -------------------------
 
-This method is described in [`Li et al`][3] and allows one to estimate $R_t$ accounting for imported cases from other regions. Code for implementing the method is found [`here`](https://github.com/KolaczykResearch/EstimLocalRt).
+This method is described in [`Li et al`][3] and allows one to estimate \(R_t\) accounting for imported cases from other regions. Code for implementing the method is found [`here`](https://github.com/KolaczykResearch/EstimLocalRt).
 
 
 Helpful tools
 =============
 
-We are working on a bookdown to describe all available $R_t$ estimation methods with implementation in R to be useful for practitioners. This is a work in progress [`here`](https://chadmilando.com/RtEstimBook/).
+We are working on a bookdown to describe all available \(R_t\) estimation methods with implementation in R to be useful for practitioners. This is a work in progress [`here`](https://chadmilando.com/RtEstimBook/).
 
 Publications
 ============

@@ -27,7 +27,7 @@ In clinical trials and cohort studies of TB, it is common to collect culture sam
 Backcalculation methods for estimating TB incidence
 =========
 
-We have developed a Bayesian implementation of backcalculation methods for estimating TB incidence, using information obtained from TB prevalence surveys. This work is under review. 
+We have developed a Bayesian implementation of backcalculation methods for estimating TB incidence, using information obtained from TB prevalence surveys. The code to implement this method is found [`here`](https://github.com/anshap32/TB-backcalc). This work is under review. 
 
 Contribution of reinfection to the annual rate of infection (ARI)
 =========

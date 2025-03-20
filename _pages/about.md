@@ -34,5 +34,5 @@ Funding
 We are grateful for funding from the NIH (NIGMS R35GM141821, NIAID P30AI042853) and CDC (NU38FT000013). 
 
 <figure markdown>
-![BU logo](\images\boston-univ-small.gif)  ![CEID logo](\images\CEID_logo.png)  ![epistorm logo](\images\epistorm-logo-stacked_white.png)
+![BU logo](\images\boston-univ.gif)  ![CEID logo](\images\CEID_logo.png)  ![epistorm logo](\images\epistorm-logo-stacked_white.png)
 </figure>

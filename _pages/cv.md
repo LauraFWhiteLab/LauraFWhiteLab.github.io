@@ -25,6 +25,9 @@ Academic Positions
 Skills
 ======
 * Advanced statistical methods
+* Infectious disease surveillance
+* Tuberculosis epidemiology and modeling
+* Substance use disorder modeling
 * Mentorship
 * Academic Leadership
 

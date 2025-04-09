@@ -31,3 +31,6 @@ Skills
 * Mentorship
 * Academic Leadership
 
+Publications
+=====
+You can find my publications [`here`](https://scholar.google.com/citations?user=ZD5-JkwAAAAJ&hl=en).

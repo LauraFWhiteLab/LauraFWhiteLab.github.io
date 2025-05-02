@@ -39,6 +39,10 @@ Data driven targets for reducing TB burden
 
 We developed a model that uses data from countries with two prevalence surveys to determine the amount of prevalent TB disease that needs to be treated in order to meaningfully decrease TB disease burden. The method also estimates the duration of infectiousness for individuals who eventually receive treatment. The code for this model can be found [`here`](https://github.com/forsbee/TB-duration-estimation). This paper has recently been accepted to the International Journal of Tuberculosis and Lung Disease.
 
+Cost-Effectiveness of a Nutritional Intervention for TB in India
+=========
+We have developed a model to test the cost effectiveness of mnutritional supplementation for individuals wiht TB in India. The model explores a range of parameter inputs stochastically and determines the cost and benefits of this type of intervention. Full code fo the model can be found [`here`]([https://github.com/forsbee/TB-duration-estimation](https://github.com/jgallini/tbnutri)).
+
 References
 ======
 
